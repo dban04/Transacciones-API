@@ -1,0 +1,31 @@
+## [ Archivos de compilación ]
+bin/
+obj/
+publish/
+
+## [ IDEs y Herramientas ]
+.vs/
+.vscode/
+.idea/
+*.user
+*.userosscache
+*.sln.docstates
+
+## [ Base de Datos SQLite ]
+*.db
+*.db-shm
+*.db-wal
+
+## [ Paquetes NuGet ]
+*.nupkg
+*.snupkg
+node_modules/
+/packages/
+
+## [ Archivos de Sistema ]
+.DS_Store
+Thumbs.db
+
+## [ Configuración de ASP.NET Core ]
+_temp/
+.run/
