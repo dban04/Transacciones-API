@@ -23,9 +23,11 @@
   <ItemGroup>
     <ProjectReference Include="..\Transacciones.Core\Transacciones.Core.csproj" />
     <ProjectReference Include="..\Transacciones.Infrastructure\Transacciones.Infrastructure.csproj" />
+    <ProjectReference Include="..\Transacciones.API\Transacciones.API.csproj" />
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Controllers\" />
     <Folder Include="Services\" />
   </ItemGroup>
 
