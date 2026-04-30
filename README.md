@@ -14,7 +14,7 @@ No es necesario configurar una base de datos externa. El sistema utiliza SQLite 
 ```bash
 # Clonar el proyecto
 git clone https://github.com/dban04/Transacciones-API.git
-cd TransaccionesAPI
+cd Transacciones-API
 
 # Restaurar paquetes y ejecutar la aplicación
 dotnet run --project Transacciones.API
